@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XClip</string>
+    <string name="show_history">Open clipboard history</string>
+    <string name="show_list_long_press">Long Press</string>
+    <string name="show_list_long_press_summary">The history of your clipboard history is displayed by the long press of an input field.It will paste,If a clipboard history is chosen.</string>
+    <string name="show_list_menu">Paste Menu</string>
+    <string name="show_list_menu_summary">Tap of the right-top menu is carried out, the history of your clipboard history will be displayed.It will paste,If a clipboard history is chosen.</string>
+    <string name="show_list_floating_button">Paste Button</string>
+    <string name="show_list_floating_button_summary">Tap of the paste button which is floating, the history of your clipboard history will be displayed.It will paste,If a clipboard history is chosen.</string>
+    <string name="show_list_web">Browser(experiment)</string>
+    <string name="show_list_web_summary">(experiment)</string>
+    <string name="show_overlay_list">Forced List(experiment)</string>
+    <string name="show_overlay_list_summary">(experiment)</string>
+    <string name="donate_cate">Donate</string>
+    <string name="donate">Donate to me</string>
+    <string name="donate_summary">Buy me a beer</string>
+
+</resources>

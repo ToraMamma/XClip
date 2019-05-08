@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XClip</string>
+    <string name="show_history">クリップボード履歴表示方法</string>
+    <string name="show_list_long_press">長押し</string>
+    <string name="show_list_long_press_summary">入力項目の長押しで一覧を表示します。一覧を選択するとそのまま貼り付けます。</string>
+    <string name="show_list_menu">貼り付けメニュー</string>
+    <string name="show_list_menu_summary">右上の貼り付けメニューをタップ時に一覧を表示します。一覧を選択するとそのまま貼り付けます。</string>
+    <string name="show_list_floating_button">貼り付けボタン</string>
+    <string name="show_list_floating_button_summary">入力カーソル付近の貼り付けボタンをタップ時に一覧を表示します。一覧を選択するとそのまま貼り付けます。</string>
+    <string name="show_list_web">ブラウザ(実験的)</string>
+    <string name="show_list_web_summary">実験的機能</string>
+    <string name="show_overlay_list">なるべく表示(実験的)</string>
+    <string name="show_overlay_list_summary">実験中</string>
+    <string name="donate_cate">寄付</string>
+    <string name="donate">気が向いたら</string>
+    <string name="donate_summary">ビールをおごってください。</string>
+
+</resources>

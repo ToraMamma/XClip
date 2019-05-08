@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InlinedApi">
+        <ignore path="src/tora/mamma/xclip/xposed/XClipMod.java" />
+    </issue>
+    <issue id="NewApi" severity="ignore" />
+</lint>
